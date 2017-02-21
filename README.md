@@ -7,10 +7,10 @@
 ######HTML PERAMETERS:
 1. Page Header containing `<title></title>`
 2. `<footer></footer` containing copywrite notice
-3. Each `<article>` has: 
-	-`<header>` containing a title.
-	-`<footer>` containing the author and publication date.
-	-at least one section.
+3. Each `<article>` has:
+	- `<header>` containing a title.
+	- `<footer>` containing the author and publication date.
+	- at least one section.
 
 ######CSS PERAMETERS:
 Each `<article>` should have a different:
